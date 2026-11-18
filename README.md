@@ -42,13 +42,3 @@ Software Development student at Seneca Polytechnic. I build AI tools, web applic
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-
-## Projects
-
-| Project | What I built |
-| --- | --- |
-| [JARVIS](https://github.com/Jerrizzy001/JARVIS) | An AI workspace assistant with human approval for actions and governed access through MCP. |
-| [Potts](https://github.com/Jerrizzy001/potts-agent) | A local iMessage bridge for AI agents, with source-linked memory and feedback. |
-| [Fraud Detection System](https://github.com/Jerrizzy001/Fraud-Detection-System) | A streaming ML pipeline using Kafka, FastAPI, MLflow, and Docker. |
-| [Taskflow](https://github.com/Jerrizzy001/taskflow) | An Expo app for AI-assisted goal planning, reminders, and progress tracking. |
-| [Email-to-ERP Automation](https://github.com/Jerrizzy001/Email-to-ERP-system) | A demo that turns quote-request emails into structured records with duplicate checks and lookup matching. |
